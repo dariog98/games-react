@@ -1,6 +1,6 @@
 import { Box, Text, Button, InputGroup, InputLeftAddon, Input } from '@chakra-ui/react'
 import { ArrowPathIcon } from '@heroicons/react/24/solid'
-import Navbar from './Navbar'
+import Navbar from '../Navbar'
 import useMines from './useMines'
 import ButtonMine from './ButtonMine'
 import { MODES } from './minefunctions'

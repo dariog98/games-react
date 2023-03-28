@@ -1,6 +1,6 @@
 import { Box } from '@chakra-ui/react'
 import MemoryGame from './MemoryGame'
-import MineSweeper from './MineSweeper'
+import MineSweeper from './minesweeper/MineSweeper'
 
 const App = () => {
     return (
