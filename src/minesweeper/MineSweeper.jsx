@@ -24,7 +24,7 @@ const MineSweeper = () => {
                 </Button>
 
                 <Box display='flex' borderWidth='1px'borderRadius='0.375rem'>
-                    <Box display='flex' justifyContent='center' alignItems='center' w='3rem'><GiUnlitBomb style={{ height: '2rem', width: '2rem' }}/></Box>
+                    <Box display='flex' justifyContent='center' alignItems='center' w='3rem'><GiUnlitBomb style={{ height: '1.75rem', width: '1.75rem' }}/></Box>
                     <Box display='flex' justifyContent='center' alignItems='center' w='3rem' as='b'>{getRemainingMines()}</Box>
                 </Box>
             </Navbar>
