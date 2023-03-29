@@ -2,7 +2,7 @@
 
 Trying to programming a few of games in javascript
 
-You can play here: https://dariog98.github.io/gallery-react/
+You can play here: https://dariog98.github.io/games-react
 
 ## 1. Minesweeper
 
