@@ -36,10 +36,4 @@
     justify-content: center;
     align-items: center;
     position: absolute;
-    background: #fafafa;
-}
-
-.pattern {
-    /*border-radius: 0.5rem;*/
-    background: repeating-linear-gradient(45deg, black, black 5px, #fafafa 5px, #fafafa 20px);
 }
