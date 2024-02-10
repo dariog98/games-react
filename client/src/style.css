@@ -1,0 +1,27 @@
+body {
+    /*font-family: 'VT323';*/
+    font-family: 'Pixelify Sans';
+}
+
+a {
+    text-decoration: none;
+    color:inherit;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.figure3d {
+    transition: all 1s ease;
+    transform-style: preserve-3d;
+    cursor: pointer;
+}
+
+.figure3d.active {
+    transform: rotate3d(0, 1, 0, 180deg);
+}
+
+.figure3d-back {
+    transform: rotateY(180deg) translateZ(1px);
+}
